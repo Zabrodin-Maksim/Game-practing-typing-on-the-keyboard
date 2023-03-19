@@ -9,12 +9,6 @@ celková přesnost v procentech.
 
 ![GameForm](Resources/GameForm.png)
 
-Možná další vylepšení:
-* přidat Menu s položkami - Nová hra, About, Help, ...
-* přidat Toolbar - dtto.
-* Možnost nastavit režim hry - hráč musí vybrat první znak/libovolný znak.
-* Režim slova - generována jsou celá slova (anglická/česká - z wordlistu), po stisku prvního znaku slova ho hráč musí napsat celé, 
-  není možné napsat půl slova a pak pokračovat jiným. Slovo zmizí až po napsání celého slova.
 
 ## Postup
 
